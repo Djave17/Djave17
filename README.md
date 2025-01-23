@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 Here are some of the technologies and tools I work with:
 
-- **Languages:** ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Djave17)
+- **Languages:**
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Djave17)
 - **Frameworks:** React
 - **Tools:** Xcode, VSCode, Visual Studio
