@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - 🎓 I'm a software developer with experience in various programming languages and technologies.
 - 🌱 Currently, I'm learning [iOS development in Xcode (Swift)].
 - 💬 Ask me about [Swift, C#, C++, C].
-- 📫 How to reach me: [dsancheza@gmail.com].
+- 📫 How to reach me: [dsancheza@uamv.edu.ni].
 - ⚡ Viva Messi
 
 ## My Skills
